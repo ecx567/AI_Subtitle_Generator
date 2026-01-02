@@ -1,0 +1,11 @@
+venv/
+models/
+__pycache__/
+*.mp3
+*.wav
+*.srt
+dist/
+build/
+*.spec
+assets/models/
+assets/ffmpeg/

@@ -1,0 +1,7 @@
+customtkinter
+faster-whisper
+SpeechRecognition
+ffmpeg-python
+deep-translator
+darkdetect
+pillow
